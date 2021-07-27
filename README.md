@@ -1,7 +1,7 @@
 <h2><b>Languages</b></h2>
 
 <ul>
-<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
+    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
     <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </ul>
 
