@@ -1,9 +1,6 @@
-Hey there, I go by strawberrys but my real name is strawberrys!
-Full-stack Developer
 Languages:
-      
-Tools, Frameworks & Others:
-        
+https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg
+
 Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawbberrys)](https://github.com/anuraghazra/github-readme-stats)
