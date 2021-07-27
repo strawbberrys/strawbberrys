@@ -1,9 +1,9 @@
 <h2><strong>Languages</strong></h2>
 
-<u1>
+<ul>
    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</u1>
+</ul>
 
 <h2><strong>Stats</strong></h2>
 
