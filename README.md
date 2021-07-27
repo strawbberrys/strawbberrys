@@ -1,5 +1,6 @@
 <h2><b>Languages<b><h2>
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 Github Stats:
 
