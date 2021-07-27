@@ -1,4 +1,4 @@
-<h2><b>Languages</b></h2>
+<h2><strong>Languages</strong></h2>
 
 <ul>
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
