@@ -7,6 +7,9 @@
 
 <h2><strong>Stats</strong></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawbberrys)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawbberrys)
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawbberrys)](https://github.com/anuraghazra/github-readme-stats)
+
+![Strawbberrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawbberrys&show_icons=true&theme=radical)
+
+
